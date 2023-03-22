@@ -1,5 +1,5 @@
 # AIWR_Assignment1
-This includes an implementation of search engine by choosing a dataset from kaggle
+This includes an implementation of search engine by choosing a corpus
 
 Dataset link: https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset
 
